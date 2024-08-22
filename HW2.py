@@ -1,7 +1,6 @@
 # name: eLIJAH RAJI
 # CLASS: 6THE HOUR
 #ASSINMENT: HW2
-from urllib.response import addinfo
 
 print("hello worlld")
 name = input("what is your name?")
