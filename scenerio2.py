@@ -49,5 +49,5 @@ enemydict = {
 
 y = partyDictionary["Gale"]["Damage"]
 x = enemydict["bob"]["health"]
-z = y - x
+z = x - y
 print(z)
