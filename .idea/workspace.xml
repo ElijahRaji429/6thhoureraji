@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba365d3b-fc53-4358-8b5b-c7ac212914ea" name="Changes" comment="added hw5">
-      <change afterPath="$PROJECT_DIR$/hw6.py" afterDir="false" />
+    <list default="true" id="ba365d3b-fc53-4358-8b5b-c7ac212914ea" name="Changes" comment="added hw7">
+      <change afterPath="$PROJECT_DIR$/Scenerio 3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,26 +45,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.HW2.executor": "Run",
-    "Python.HW3.executor": "Run",
-    "Python.HW4.executor": "Run",
-    "Python.hello world.executor": "Run",
-    "Python.hw5.executor": "Run",
-    "Python.hw6.executor": "Run",
-    "Python.playground.executor": "Run",
-    "Python.scenerio 1.executor": "Run",
-    "Python.scenerio2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/6th Hour/PycharmProjects/6thhoureraji/HW3.py"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.HW2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scenerio 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hello world.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.playground.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scenerio 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scenerio2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/6th Hour/PycharmProjects/6thhoureraji/HW3.py&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\6th Hour\PycharmProjects\6thhoureraji" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Scenerio 3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="6thhoureraji" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scenerio 3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Scenerio 3" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -178,7 +209,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727462909215</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="added hw5">
+      <option name="closed" value="true" />
+      <created>1728066487399</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1728066487399</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added hw7">
+      <option name="closed" value="true" />
+      <created>1728067172310</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1728067172310</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -191,6 +238,7 @@
     <MESSAGE value="added scenerio 1" />
     <MESSAGE value="added scenerio 2" />
     <MESSAGE value="added hw5" />
-    <option name="LAST_COMMIT_MESSAGE" value="added hw5" />
+    <MESSAGE value="added hw7" />
+    <option name="LAST_COMMIT_MESSAGE" value="added hw7" />
   </component>
 </project>
