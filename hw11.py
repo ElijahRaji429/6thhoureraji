@@ -12,14 +12,15 @@ import time
 #Create a while loop that follows the rules of the game.
 #(HINT: Look back to HW6 on how to see if a number is divisible by another)
 i = 0
-while i <= 100:
-    print(i)
-    time.sleep(0.4)
+while i < 100:
     i += 1
-    if i % 3==0:
-        ("fizz")
-    #elif i % 5==0:
-     #   print("buzz")
-    #elif i % 3==0 and i % 5==0:
-       # print("fizzbuzz")
+    if i % 3==0 and i % 5==0:
+        print("fizzbuzz")
+    elif i % 3==0:
+        print("fizz")
+    elif i % 5==0:
+        print("buzz")
+    else:
+        print(i)
+
 
