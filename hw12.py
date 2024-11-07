@@ -26,6 +26,5 @@ for y in animal:
 
 #4. Create a for loop that spells out a word you input backwards.
 #(HINT: Google "How to reverse a string in Python")
-my_string = input()
-reversed_string = my_string[::-1]
-print(reversed_string)
+for z in input("Give me a word: ")[::-1]:
+    print(z)
