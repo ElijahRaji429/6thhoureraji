@@ -14,7 +14,7 @@ else:
 #2. Create a for loop that counts up and prints only even numbers
 #between 1 and 30.
 #(HINT: Look back to HW6 on how to see if a number is divisible by another)
-for i in range(2,30,2):
+for i in range(2,32,2):
     time.sleep(0.4)
     print(i)
 
