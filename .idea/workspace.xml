@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba365d3b-fc53-4358-8b5b-c7ac212914ea" name="Changes" comment="added hw12">
-      <change afterPath="$PROJECT_DIR$/hw14.py" afterDir="false" />
+    <list default="true" id="ba365d3b-fc53-4358-8b5b-c7ac212914ea" name="Changes" comment="added hw14">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +56,7 @@
     &quot;Python.hw11.executor&quot;: &quot;Run&quot;,
     &quot;Python.hw12.executor&quot;: &quot;Run&quot;,
     &quot;Python.hw13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw14.executor&quot;: &quot;Run&quot;,
     &quot;Python.hw5.executor&quot;: &quot;Run&quot;,
     &quot;Python.hw6.executor&quot;: &quot;Run&quot;,
     &quot;Python.hw7.executor&quot;: &quot;Run&quot;,
@@ -320,7 +320,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731441576370</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="added hw14">
+      <option name="closed" value="true" />
+      <created>1731527126727</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1731527126727</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -340,6 +348,7 @@
     <MESSAGE value="added hw10" />
     <MESSAGE value="added hw11" />
     <MESSAGE value="added hw12" />
-    <option name="LAST_COMMIT_MESSAGE" value="added hw12" />
+    <MESSAGE value="added hw14" />
+    <option name="LAST_COMMIT_MESSAGE" value="added hw14" />
   </component>
 </project>
