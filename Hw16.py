@@ -1,6 +1,6 @@
 #Name: Elijah Raji
 #Class:6th hour
-#Assinment:hw15
+#Assinment:hw16
 import random
 #1. Create a def function that plays a single round of rock, paper, scissors where the user inputs
 #1 for rock, 2 for paper, or 3 for scissors and compares it to a random number generated to serve
