@@ -12,6 +12,7 @@ beanbag = ["red","black","blue","green","pink"]
 def grab_bag():
     bag = random.choice(beanbag)
     print(bag)
+    beanbag.remove(bag)
     grab()
 #4. Create a def function that asks if you want to pull another bean out of the bag and, if yes, repeats the #3 def function
 def grab():
