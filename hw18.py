@@ -10,10 +10,13 @@ def hellow_world():
 beanbag = ["red","black","blue","green","pink"]
 #3. Create a def function that pulls a random bean out of the beanBag list, prints which bean you pulled, and then removes it from the list.
 def grab_bag():
-    bag = random.choice(beanbag)
-    print(bag)
-    beanbag.remove(bag)
-    grab()
+    if not beanbag:
+        print("the bag is empty")
+    else:
+        bag = random.choice(beanbag)
+        print(bag)
+        beanbag.remove(bag)
+        grab()
 #4. Create a def function that asks if you want to pull another bean out of the bag and, if yes, repeats the #3 def function
 def grab():
     question = input("Would like to grab a beanbag Y/N")
