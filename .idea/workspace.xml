@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba365d3b-fc53-4358-8b5b-c7ac212914ea" name="Changes" comment="added hw18">
+      <change afterPath="$PROJECT_DIR$/hw19.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw18.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw15.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw15.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,37 +46,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.HW2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Hw16.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenerio 3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.h.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hello world.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw17.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw18.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.playground.executor&quot;: &quot;Run&quot;,
-    &quot;Python.scenerio 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.scenerio2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.scenerio4.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/6th Hour/PycharmProjects/6thhoureraji/HW3.py&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.HW2.executor": "Run",
+    "Python.HW3.executor": "Run",
+    "Python.HW4.executor": "Run",
+    "Python.Hw16.executor": "Run",
+    "Python.Scenerio 3.executor": "Run",
+    "Python.h.executor": "Run",
+    "Python.hello world.executor": "Run",
+    "Python.hw10.executor": "Run",
+    "Python.hw11.executor": "Run",
+    "Python.hw12.executor": "Run",
+    "Python.hw13.executor": "Run",
+    "Python.hw14.executor": "Run",
+    "Python.hw15.executor": "Run",
+    "Python.hw17.executor": "Run",
+    "Python.hw18.executor": "Run",
+    "Python.hw19.executor": "Run",
+    "Python.hw5.executor": "Run",
+    "Python.hw6.executor": "Run",
+    "Python.hw7.executor": "Run",
+    "Python.hw8.executor": "Run",
+    "Python.hw9.executor": "Run",
+    "Python.playground.executor": "Run",
+    "Python.scenerio 1.executor": "Run",
+    "Python.scenerio2.executor": "Run",
+    "Python.scenerio4.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/6th Hour/PycharmProjects/6thhoureraji/HW3.py"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\6th Hour\PycharmProjects\6thhoureraji" />
@@ -390,7 +392,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738266695478</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="added hw18">
+      <option name="closed" value="true" />
+      <created>1738267052982</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1738267052982</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
