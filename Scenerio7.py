@@ -2,7 +2,6 @@
 #Class:6th hour
 #Assinment:scenerio7
 
-import Scenerio6
 from Scenerio6 import characterlist
 
 listAverage = 0
