@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba365d3b-fc53-4358-8b5b-c7ac212914ea" name="Changes" comment="added hw22">
-      <change afterPath="$PROJECT_DIR$/hw23.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ba365d3b-fc53-4358-8b5b-c7ac212914ea" name="Changes" comment="added hw23" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +65,7 @@
     &quot;Python.hw20.executor&quot;: &quot;Run&quot;,
     &quot;Python.hw21.executor&quot;: &quot;Run&quot;,
     &quot;Python.hw22.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw23.executor&quot;: &quot;Run&quot;,
     &quot;Python.hw5.executor&quot;: &quot;Run&quot;,
     &quot;Python.hw6.executor&quot;: &quot;Run&quot;,
     &quot;Python.hw7.executor&quot;: &quot;Run&quot;,
@@ -477,7 +475,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741633133699</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="added hw23">
+      <option name="closed" value="true" />
+      <created>1741892541991</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1741892541991</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -492,7 +498,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added HW2" />
     <MESSAGE value="Added HW3" />
     <MESSAGE value="Added playground" />
     <MESSAGE value="added scenerio 1" />
@@ -517,6 +522,7 @@
     <MESSAGE value="added playgroundAI" />
     <MESSAGE value="added hw21" />
     <MESSAGE value="added hw22" />
-    <option name="LAST_COMMIT_MESSAGE" value="added hw22" />
+    <MESSAGE value="added hw23" />
+    <option name="LAST_COMMIT_MESSAGE" value="added hw23" />
   </component>
 </project>
