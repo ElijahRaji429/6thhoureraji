@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba365d3b-fc53-4358-8b5b-c7ac212914ea" name="Changes" comment="added scenerio 3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ba365d3b-fc53-4358-8b5b-c7ac212914ea" name="Changes" comment="added hw24" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +66,7 @@
     &quot;Python.hw21.executor&quot;: &quot;Run&quot;,
     &quot;Python.hw22.executor&quot;: &quot;Run&quot;,
     &quot;Python.hw23.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw24.executor&quot;: &quot;Run&quot;,
     &quot;Python.hw5.executor&quot;: &quot;Run&quot;,
     &quot;Python.hw6.executor&quot;: &quot;Run&quot;,
     &quot;Python.hw7.executor&quot;: &quot;Run&quot;,
@@ -494,7 +493,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742929464828</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="added hw24">
+      <option name="closed" value="true" />
+      <created>1743446756251</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1743446756251</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -509,7 +516,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added playground" />
     <MESSAGE value="added scenerio 1" />
     <MESSAGE value="added scenerio 2" />
     <MESSAGE value="added hw5" />
@@ -534,6 +540,7 @@
     <MESSAGE value="added hw22" />
     <MESSAGE value="added hw23" />
     <MESSAGE value="added scenerio 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="added scenerio 3" />
+    <MESSAGE value="added hw24" />
+    <option name="LAST_COMMIT_MESSAGE" value="added hw24" />
   </component>
 </project>
